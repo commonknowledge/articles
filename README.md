@@ -86,7 +86,10 @@ b) Employees working less than a prescribed number of hours per week (or per mon
 
 16. A Member shall cease to be a Member of the Co­operative immediately that they:
 
-> a) Cease to be in the employment of the Cooperative; orb) Resign in Writing as a Member of the Co-operative to the Secretary; or c) Is expelled from membership in accordance with these Articles; or d) Dies, or in the opinion of the Board is unable to carry out their duties.
+a) Cease to be in the employment of the Cooperative; or
+b) Resign in Writing as a Member of the Co-operative to the Secretary; or 
+c) Is expelled from membership in accordance with these Articles; or 
+d) Dies, or in the opinion of the Board is unable to carry out their duties.
 
 17. The rights and privileges of a Member shall not be transferable or transmissible.
 
