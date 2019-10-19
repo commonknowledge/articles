@@ -224,15 +224,15 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
     b) The following decisions must be made by special resolution:
 
-        i. Decisions involving an alteration to the Articles of the Cooperative, except where an article is Entrenched as detailed above;
+       i. Decisions involving an alteration to the Articles of the Cooperative, except where an article is Entrenched as detailed above;
 
-        ii. Decisions to expel Members;
+       ii. Decisions to expel Members;
 
-        iii. Decisions to dispose assets of the Cooperative equivalent in value to one-third of the Cooperative’s last published balance sheet, as detailed in these Articles;
+       iii. Decisions to dispose assets of the Cooperative equivalent in value to one-third of the Cooperative’s last published balance sheet, as detailed in these Articles;
 
-        iv. The decision to wind up the Cooperative;
+       iv. The decision to wind up the Cooperative;
 
-        v. Other decisions which are required so by statute.
+       v. Other decisions which are required so by statute.
 
     c) All other decisions shall be made by ordinary resolution.
 
@@ -343,10 +343,9 @@ Provided that nothing in this Article shall prevent a Director from counting tow
     a. In accordance with (but subject to) the Companies Acts, the Board of Directors may give authorisation in respect of a situation in which a Director has, or could have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the Cooperative; and
 
     b. In authorising a situation the Board of Directors may decide, whether at the time of giving the authorisation or subsequently, that if the conflicted Director has obtained any information through their involvement in the situation otherwise that as a Director and in respect of which they owe a duty of confidentiality to another person, the Director is under no obligation to:
-
         i. Disclose that information to the Cooperative; and/or
 
-        ii. Use that information for the benefit of the Cooperative;where to do so would amount to a breach of confidence
+       ii. Use that information for the benefit of the Cooperative;where to do so would amount to a breach of confidence
 
 ### **Expenses**
 
@@ -490,11 +489,11 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 110. Subject to the following article, any Director or former Director of the Cooperative may be indemnified out of the Cooperative’s assets against:
 
-    a. Any liability incurred by that Director in connection with any negligence, default, breach of duty or breach of trust in relation to the Cooperative;
+   a. Any liability incurred by that Director in connection with any negligence, default, breach of duty or breach of trust in relation to the Cooperative;
 
-    b. Any liability incurred by that Director in connection with the activities of the Cooperative in its capacity as a trustee of an occupational pension scheme (as per the Act);
+   b. Any liability incurred by that Director in connection with the activities of the Cooperative in its capacity as a trustee of an occupational pension scheme (as per the Act);
 
-    c. Any other liability incurred by that Director as an officer of the Cooperative.
+   c. Any other liability incurred by that Director as an officer of the Cooperative.
 
 111. The above article does not authorise any indemnity which would be prohibited or rendered void by any provision of the Companies Acts or any other provision of law.
 
