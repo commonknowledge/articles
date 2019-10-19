@@ -100,8 +100,9 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 18. A Member may be expelled from membership by a resolution of the Co-operative stating that it is in the best interests of the Co-operative that their membership is terminated. A resolution to remove a Member from membership may only be passed if:
 
-a. The Member has been given at least 21 days’ notice in Writing of the general meeting at which the resolution to expel them will be proposed and the reasons why it is to be proposed; and
-b. The Member or, at the option of the Member, a individual who is there to represent them (who need not be a Member of the Co-operative) has been allowed to make representations to the general meeting.
+    a) The Member has been given at least 21 days’ notice in Writing of the general meeting at which the resolution to expel them will be proposed and the reasons why it is to be proposed; and
+
+    b) The Member or, at the option of the Member, a individual who is there to represent them (who need not be a Member of the Co-operative) has been allowed to make representations to the general meeting.
 
 ## **General Meetings**
 
@@ -109,12 +110,15 @@ b. The Member or, at the option of the Member, a individual who is there to repr
 
 20. The business of an annual general meeting shall comprise, where appropriate:
 
-a. Consideration of accounts and balance sheets;
-b. Consideration of Directors’ and auditor’s reports;
-c. Elections to replace retiring Directors;
-d. Appointment and remuneration of the auditor (or their equivalent).
+    a. Consideration of accounts and balance sheets;
 
-25. In accordance with the Cooperative Principle of democratic member control, the Cooperative shall ensure that, in addition to the annual general meeting, at least four other general meetings are held annually. The purpose of these meetings is to ensure that Members are given the opportunity to participate in the decision-making process of the Cooperative, review the business planning and management processes and to ensure the Cooperative manages itself in accordance with the cooperative values and Co-operative Principles.
+    b. Consideration of Directors’ and auditor’s reports;
+
+    c. Elections to replace retiring Directors;
+
+    d. Appointment and remuneration of the auditor (or their equivalent).
+
+21. In accordance with the Cooperative Principle of democratic member control, the Cooperative shall ensure that, in addition to the annual general meeting, at least four other general meetings are held annually. The purpose of these meetings is to ensure that Members are given the opportunity to participate in the decision-making process of the Cooperative, review the business planning and management processes and to ensure the Cooperative manages itself in accordance with the cooperative values and Co-operative Principles.
 
 ### **Calling a General Meeting**
 
