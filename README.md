@@ -2,7 +2,7 @@
 
 # Companies Act 2006 Private Company Limited by Guarantee
 
-Articles of **Common Knowledge Cooperative Ltd**.
+Articles of **Common Knowledge Co-operative Ltd**.
 
 ## **Interpretations**
 
