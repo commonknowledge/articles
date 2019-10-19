@@ -451,9 +451,10 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 101. The Cooperative shall ensure that minutes are kept of all:
 
-     a. Proceedings at meetings of the Cooperative; and
 
-     b. Proceedings at meetings of the Board of Directors and its sub-committees which include names of the Directors present, decisions made and the reasons for those decisions.
+    a. Proceedings at meetings of the Cooperative; and
+
+    b. Proceedings at meetings of the Board of Directors and its sub-committees which include names of the Directors present, decisions made and the reasons for those decisions.
 
 ### **Accounts**
 
