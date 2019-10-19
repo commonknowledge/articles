@@ -449,21 +449,20 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 ### **Minutes**
 
 101. The Cooperative shall ensure that minutes are kept of all:
+   
+   a. Proceedings at meetings of the Cooperative; and
 
-
-    a. Proceedings at meetings of the Cooperative; and
-
-    b. Proceedings at meetings of the Board of Directors and its sub-committees which include names of the Directors present, decisions made and the reasons for those decisions.
+   b. Proceedings at meetings of the Board of Directors and its sub-committees which include names of the Directors present, decisions made and the reasons for those decisions.
 
 ### **Accounts**
 
 102. The Board of Directors shall cause proper accounts to be kept and circulated in accordance with the Companies Acts with respect to:
+   
+   a. All sums of money received and expended by the Cooperative and the matters in which the receipt and expenditure takes place;
 
-    a. All sums of money received and expended by the Cooperative and the matters in which the receipt and expenditure takes place;
+   b. All sales and purchases of goods by the Cooperative;
 
-    b. All sales and purchases of goods by the Cooperative;
-
-    c. The assets and liabilities of the Cooperative.
+   c. The assets and liabilities of the Cooperative.
 
 103. Proper accounts shall be deemed to have been kept if they give a true and fair record of the state of the Cooperative's affairs and explain its transactions.
 
