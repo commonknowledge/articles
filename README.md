@@ -97,19 +97,19 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 18. A Member may be expelled from membership by a resolution of the Co-operative stating that it is in the best interests of the Co-operative that their membership is terminated. A resolution to remove a Member from membership may only be passed if:
 
-1. The Member has been given at least 21 days’ notice in Writing of the general meeting at which the resolution to expel them will be proposed and the reasons why it is to be proposed; and
-1. The Member or, at the option of the Member, a individual who is there to represent them (who need not be a Member of the Co-operative) has been allowed to make representations to the general meeting.
+   a. The Member has been given at least 21 days’ notice in Writing of the general meeting at which the resolution to expel them will be proposed and the reasons why it is to be proposed; and
+   b. The Member or, at the option of the Member, a individual who is there to represent them (who need not be a Member of the Co-operative) has been allowed to make representations to the general meeting.
 
 ## **General Meetings**
 
-19. The Co­operative shall in each calendar year hold a general meeting of the Members as its annual general meeting and shall specify the meeting as such in the notices calling it. The first annual general meeting shall be held within 18 months of incorporation. Every annual general meeting except the first shall be held not more than 15 months after the previous annual general meeting.
+19. The Cooperative shall in each calendar year hold a general meeting of the Members as its annual general meeting and shall specify the meeting as such in the notices calling it. The first annual general meeting shall be held within 18 months of incorporation. Every annual general meeting except the first shall be held not more than 15 months after the previous annual general meeting.
 
 20. The business of an annual general meeting shall comprise, where appropriate:
 
-21. Consideration of accounts and balance sheets;
-22. Consideration of Directors’ and auditor’s reports;
-23. Elections to replace retiring Directors;
-24. Appointment and remuneration of the auditor (or their equivalent).
+   a. Consideration of accounts and balance sheets;
+   b. Consideration of Directors’ and auditor’s reports;
+   c. Elections to replace retiring Directors;
+   d. Appointment and remuneration of the auditor (or their equivalent).
 
 25. In accordance with the Cooperative Principle of democratic member control, the Cooperative shall ensure that, in addition to the annual general meeting, at least four other general meetings are held annually. The purpose of these meetings is to ensure that Members are given the opportunity to participate in the decision-making process of the Cooperative, review the business planning and management processes and to ensure the Cooperative manages itself in accordance with the cooperative values and Co-operative Principles.
 
@@ -131,20 +131,20 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 27. Proxies may only validly be appointed by a notice in Writing which:
 
-28. States the name and Address of the Member appointing the proxy;
-29. Identifies the Person appointed to be that Member’s proxy and the general meeting in relation to which that Person is appointed;
-30. Is signed by or on behalf of the Member appointing the proxy, or is authenticated in such manner as the Directors may determine; and
-31. Is delivered to the Co-operative in accordance with the Articles and any instructions contained in the notice of the general meeting to which they relate.
+   a. States the name and Address of the Member appointing the proxy;
+   b. Identifies the Person appointed to be that Member’s proxy and the general meeting in relation to which that Person is appointed;
+   c. Is signed by or on behalf of the Member appointing the proxy, or is authenticated in such manner as the Directors may determine; and
+   d. Is delivered to the Co-operative in accordance with the Articles and any instructions contained in the notice of the general meeting to which they relate.
 
-32. The Cooperative may require proxy notices to be delivered in a particular form and may specify different forms for different purposes.
+28. The Cooperative may require proxy notices to be delivered in a particular form and may specify different forms for different purposes.
 
-33. Proxy notices may specify how the proxy appointed under them is to vote (or that the proxy is to abstain from voting) on one or more of the resolutions, otherwise the proxy notice shall be treated as allowing the Person appointed the discretion as how to vote on any matter.
+29. Proxy notices may specify how the proxy appointed under them is to vote (or that the proxy is to abstain from voting) on one or more of the resolutions, otherwise the proxy notice shall be treated as allowing the Person appointed the discretion as how to vote on any matter.
 
-34. A Person who is entitled to attend, speak or vote (either on a show of hands or a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of the general meeting to which it relates.
+30. A Person who is entitled to attend, speak or vote (either on a show of hands or a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of the general meeting to which it relates.
 
-35. An appointment using a proxy notice may be revoked by delivering to the Cooperative a notice in Writing given by or on behalf of the Person by whom or on whose behalf the proxy notice was given. A notice revoking a proxy appointment only takes effect if it is delivered before the start of the meeting or the adjourned meeting to which it relates.
+31. An appointment using a proxy notice may be revoked by delivering to the Cooperative a notice in Writing given by or on behalf of the Person by whom or on whose behalf the proxy notice was given. A notice revoking a proxy appointment only takes effect if it is delivered before the start of the meeting or the adjourned meeting to which it relates.
 
-36. If a proxy notice is not signed by the Person appointing the proxy, it must be accompanied by evidence in Writing that the person signing it has the authority to execute it on the appointor’s behalf.
+32. If a proxy notice is not signed by the Person appointing the proxy, it must be accompanied by evidence in Writing that the person signing it has the authority to execute it on the appointor’s behalf.
 
 ### **Quorum**
 
@@ -166,16 +166,16 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 38. The chairperson of a general meeting may adjourn the meeting whilst a quorum is present if:
 
-39. The meeting consents to that adjournment; or
-40. It appears to the chairperson that an adjournment is necessary to protect the safety of any persons attending the meeting or to ensure that the business of the meeting is conducted in an orderly manner.
+   a. The meeting consents to that adjournment; or
+   b. It appears to the chairperson that an adjournment is necessary to protect the safety of any persons attending the meeting or to ensure that the business of the meeting is conducted in an orderly manner.
+   
+39. The chairperson must adjourn the meeting if directed to do so by the meeting.
 
-41. The chairperson must adjourn the meeting if directed to do so by the meeting.
+40. When adjourning a meeting the chairperson must specify the date, time and place to which it will stand adjourned or that the meeting is to continue at a date, time and place to be fixed by the Directors.
 
-42. When adjourning a meeting the chairperson must specify the date, time and place to which it will stand adjourned or that the meeting is to continue at a date, time and place to be fixed by the Directors.
+41. If the meeting is adjourned for 14 days or more, at least 7 clear days’ notice of the adjourned meeting shall be given in the same manner as the notice of the original meeting.
 
-43. If the meeting is adjourned for 14 days or more, at least 7 clear days’ notice of the adjourned meeting shall be given in the same manner as the notice of the original meeting.
-
-44. No business shall be transacted at an adjourned meeting other than business which could not properly have been transacted at the meeting if the adjournment had not taken place.
+42. No business shall be transacted at an adjourned meeting other than business which could not properly have been transacted at the meeting if the adjournment had not taken place.
 
 ### **Voting**
 
@@ -189,14 +189,14 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 46. A poll on a resolution may be demanded:
 
-    1.  In advance of the general meeting where the matter is to be put to the vote; or
-    2.  At a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
+    a.  In advance of the general meeting where the matter is to be put to the vote; or
+    b.  At a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
 
 47. A poll may be demanded by:
 
-    1.  The chairperson of the meeting;
-    2.  The Directors;
-    3.  Two or more Persons having the right to vote on a resolution.
+    a.  The chairperson of the meeting;
+    b.  The Directors;
+    c.  Two or more Persons having the right to vote on a resolution.
 
 48. A demand for a poll may be withdrawn if the poll has not yet been taken and the chairperson consents to the withdrawal.
 
@@ -206,27 +206,27 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 50. Decisions at general meetings shall be made by passing resolutions:
 
-1. Decisions involving an alteration to articles that have been Entrenched in accordance with section 22 of the Act require the approval of 100% of the Members.
-1. The following decisions must be made by special resolution:
-   1. Decisions involving an alteration to the Articles of the Cooperative, except where an article is Entrenched as detailed above;
-   2. Decisions to expel Members;
-   3. Decisions to dispose assets of the Cooperative equivalent in value to one-third of the Cooperative’s last published balance sheet, as detailed in these Articles;
-   4. The decision to wind up the Cooperative;
-   5. Other decisions which are required so by statute.
-1. All other decisions shall be made by ordinary resolution.
+   a. Decisions involving an alteration to articles that have been Entrenched in accordance with section 22 of the Act require the approval of 100% of the Members.
+   b. The following decisions must be made by special resolution:
+      i. Decisions involving an alteration to the Articles of the Cooperative, except where an article is Entrenched as detailed above;
+      ii. Decisions to expel Members;
+      iii. Decisions to dispose assets of the Cooperative equivalent in value to one-third of the Cooperative’s last published balance sheet, as detailed in these Articles;
+      iv. The decision to wind up the Cooperative;
+      v. Other decisions which are required so by statute.
+  c. All other decisions shall be made by ordinary resolution.
 
-1. A special resolution is one passed by a majority of not less than 75% of votes cast at a general meeting and an ordinary resolution is one passed by a simple majority (51%) of votes cast.
+51. A special resolution is one passed by a majority of not less than 75% of votes cast at a general meeting and an ordinary resolution is one passed by a simple majority (51%) of votes cast.
 
-1. Resolutions may be passed at general meetings or by written resolution.
+52. Resolutions may be passed at general meetings or by written resolution.
 
-1. A written resolution passed by Members shall be effective if it has been passed in accordance with the requirements of the Act which includes sending a copy of the proposed resolution to every Member. Written resolutions may comprise several copies to which one or more Members have signified their agreement.
+53. A written resolution passed by Members shall be effective if it has been passed in accordance with the requirements of the Act which includes sending a copy of the proposed resolution to every Member. Written resolutions may comprise several copies to which one or more Members have signified their agreement.
 
-1. A written resolution shall be deemed to have been passed if, within 28 days of the written resolution’s circulation date:
+54. A written resolution shall be deemed to have been passed if, within 28 days of the written resolution’s circulation date:
 
    a) Written approval has been received from at least 75% of the Members where the resolution is a special resolution;
    b) Written approval has been received from at least 51% of the Members where the resolution is an ordinary resolution.
 
-1. In accordance with the Companies Acts, resolutions to remove a Director or auditor (or their equivalent) of the Cooperative before the end of their period of office shall not be passed by written resolution.
+55. In accordance with the Companies Acts, resolutions to remove a Director or auditor (or their equivalent) of the Cooperative before the end of their period of office shall not be passed by written resolution.
 
 ## **Directors**
 
@@ -306,19 +306,19 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 81. Whenever a Director has a personal, financial or material interest, whether directly or indirectly, in a matter to be discussed at a meeting and whenever a Director has an interest in another unincorporated body, firm, partnership or corporate body whose interests are reasonably likely to conflict with those of the Cooperative in relation to a matter to be discussed at a meeting, notwithstanding matters relating to the terms of business of the Cooperative, they must;
 
-1. Declare the nature and extent of the interest before the discussion begins on the matter;
-1. Withdraw from that part of the meeting unless expressly invited by the chairperson of the meeting to remain;
-1. Not be counted in the quorum for that part of the meeting;
-1. Withdraw during the vote and have no vote on the matter.
+   a. Declare the nature and extent of the interest before the discussion begins on the matter;
+   b. Withdraw from that part of the meeting unless expressly invited by the chairperson of the meeting to remain;
+   c. Not be counted in the quorum for that part of the meeting;
+   d. Withdraw during the vote and have no vote on the matter.
 
 Provided that nothing in this Article shall prevent a Director from counting towards the quorum for Board meetings and voting where the matter relates to their own contract of employment or in respect of bonus or other payments to Members.
 
 82. Subject to anything to the contrary in these Articles:
 
-1. In accordance with (but subject to) the Companies Acts, the Board of Directors may give authorisation in respect of a situation in which a Director has, or could have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the Cooperative; and
-1. In authorising a situation the Board of Directors may decide, whether at the time of giving the authorisation or subsequently, that if the conflicted Director has obtained any information through their involvement in the situation otherwise that as a Director and in respect of which they owe a duty of confidentiality to another person, the Director is under no obligation to:
-   1. Disclose that information to the Cooperative; and/or
-   2. Use that information for the benefit of the Cooperative;where to do so would amount to a breach of confidence
+   a. In accordance with (but subject to) the Companies Acts, the Board of Directors may give authorisation in respect of a situation in which a Director has, or could have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the Cooperative; and
+   b. In authorising a situation the Board of Directors may decide, whether at the time of giving the authorisation or subsequently, that if the conflicted Director has obtained any information through their involvement in the situation otherwise that as a Director and in respect of which they owe a duty of confidentiality to another person, the Director is under no obligation to:
+      i. Disclose that information to the Cooperative; and/or
+      ii. Use that information for the benefit of the Cooperative;where to do so would amount to a breach of confidence
 
 ### **Expenses**
 
@@ -328,20 +328,20 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 84. A person ceases to be a Director of the Cooperative as soon as:
 
-    1.  That person ceases to be a Member of the Cooperative;
-    2.  That person resigns from office in Writing to the Secretary of the Co-operative, and such resignation has taken effect in accordance with its terms;
-    3.  That person is removed from office by a resolution of the Cooperative in general meeting in accordance with these Articles and the Companies Acts;
-    4.  That person ceases to be a Director by virtue of any provision of the Companies Acts or is prohibited from being a Director by law;
-    5.  A bankruptcy order is made against that person;
-    6.  A registered medical practitioner who is treating that person gives a written opinion to the Cooperative stating that the person has become physically or mentally incapable of acting as a Director and may remain so for more than three months;
-    7.  By reason of that person’s mental health, a court makes an order which wholly or partly prevents that person from personally exercising any powers or rights which that person would otherwise have.
+    a.  That person ceases to be a Member of the Cooperative;
+    b.  That person resigns from office in Writing to the Secretary of the Co-operative, and such resignation has taken effect in accordance with its terms;
+    c.  That person is removed from office by a resolution of the Cooperative in general meeting in accordance with these Articles and the Companies Acts;
+    d.  That person ceases to be a Director by virtue of any provision of the Companies Acts or is prohibited from being a Director by law;
+    e.  A bankruptcy order is made against that person;
+    f.  A registered medical practitioner who is treating that person gives a written opinion to the Cooperative stating that the person has become physically or mentally incapable of acting as a Director and may remain so for more than three months;
+    g.  By reason of that person’s mental health, a court makes an order which wholly or partly prevents that person from personally exercising any powers or rights which that person would otherwise have.
 
 ### **Removal of a Director**
 
 85. A Director may be expelled from office by a resolution of the Co-operative stating that it is in the best interests of the Co-operative that their office is terminated. A resolution to remove a Director from office may only be passed if:
 
-    1.  The Director has been given at least 21 days’ notice in Writing of the general meeting at which the resolution to remove them from office will be proposed and the reasons why it is to be proposed; and
-    2.  The Director or, at the option of the Director, the Director’s representative (who need not be a Member of the Co-operative) has been allowed to make representations to the general meeting.
+    a.  The Director has been given at least 21 days’ notice in Writing of the general meeting at which the resolution to remove them from office will be proposed and the reasons why it is to be proposed; and
+    b.  The Director or, at the option of the Director, the Director’s representative (who need not be a Member of the Co-operative) has been allowed to make representations to the general meeting.
 
 ## **Secretary**
 
@@ -361,8 +361,8 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 90. The profit of the Cooperative shall be applied in the following ways, in such proportions and in such manner as the general meeting shall decide from time to time:
 
-    1.  To create a general reserve for the continuation and development of the Cooperative;
-    2.  In accordance with the Cooperative Principle of concern for community, to make payment for social, co-operative and community purposes.
+    a.  To create a general reserve for the continuation and development of the Cooperative;
+    b.  In accordance with the Cooperative Principle of concern for community, to make payment for social, co-operative and community purposes.
 
 ## **Dissolution**
 
@@ -396,12 +396,12 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 98. The Cooperative shall maintain a register of Directors which shall include the following particulars:
 
-    1.  Name of the Director and any former names used by them for business purposes;
-    2.  Service address;
-    3.  Country of residence;
-    4.  Nationality;
-    5.  Business occupation, if any;
-    6.  Date of birth.
+    a.  Name of the Director and any former names used by them for business purposes;
+    b.  Service address;
+    c.  Country of residence;
+    d.  Nationality;
+    e.  Business occupation, if any;
+    f.  Date of birth.
 
 99. The register of Directors shall be open for inspection to any Member of the Cooperative without charge and to any other Person on payment of such fee as may be prescribed.
 
