@@ -40,7 +40,7 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 **“Writing”** means the representation or reproduction of words, symbols or other information in a visible form by any method or combination of methods, whether sent or supplied in electronic form or otherwise.
 
-2) Unless the context requires otherwise, other words or expressions contained in these Articles bear the same meaning as in the Companies Act 2006 as in force on the date when these Articles become binding on the Co-operative. Schedule 1 to the Companies (Model Articles) Regulations 2008 shall apply to the Cooperative, save where amended or replaced by these Articles. In the case of any variation or inconsistency between these Articles and the model articles, these Articles shall prevail.
+2. Unless the context requires otherwise, other words or expressions contained in these Articles bear the same meaning as in the Companies Act 2006 as in force on the date when these Articles become binding on the Co-operative. Schedule 1 to the Companies (Model Articles) Regulations 2008 shall apply to the Cooperative, save where amended or replaced by these Articles. In the case of any variation or inconsistency between these Articles and the model articles, these Articles shall prevail.
 
 ## **Purpose**
 
