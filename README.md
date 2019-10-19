@@ -460,7 +460,6 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 102. The Board of Directors shall cause proper accounts to be kept and circulated in accordance with the Companies Acts with respect to:
 
-
     a. All sums of money received and expended by the Cooperative and the matters in which the receipt and expenditure takes place;
 
     b. All sales and purchases of goods by the Cooperative;
@@ -490,7 +489,6 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 ### **Indemnity and Insurance**
 
 110. Subject to the following article, any Director or former Director of the Cooperative may be indemnified out of the Cooperative’s assets against:
-
 
     a. Any liability incurred by that Director in connection with any negligence, default, breach of duty or breach of trust in relation to the Cooperative;
 
