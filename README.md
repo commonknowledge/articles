@@ -411,14 +411,12 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 101. The Cooperative shall ensure that minutes are kept of all:
 
-
     1. Proceedings at meetings of the Cooperative; and
     2. Proceedings at meetings of the Board of Directors and its sub-committees which include names of the Directors present, decisions made and the reasons for those decisions.
 
 ### **Accounts**
 
 102. The Board of Directors shall cause proper accounts to be kept and circulated in accordance with the Companies Acts with respect to:
-
 
     1. All sums of money received and expended by the Cooperative and the matters in which the receipt and expenditure takes place;
     2. All sales and purchases of goods by the Cooperative;
@@ -447,8 +445,6 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 ### **Indemnity and Insurance**
 
 110. Subject to the following article, any Director or former Director of the Cooperative may be indemnified out of the Cooperative’s assets against:
-
-
     1. Any liability incurred by that Director in connection with any negligence, default, breach of duty or breach of trust in relation to the Cooperative;
     2. Any liability incurred by that Director in connection with the activities of the Cooperative in its capacity as a trustee of an occupational pension scheme (as per the Act);
     3. Any other liability incurred by that Director as an officer of the Cooperative.
