@@ -487,7 +487,7 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 ### **Indemnity and Insurance**
 
 110. Subject to the following article, any Director or former Director of the Cooperative may be indemnified out of the Cooperative’s assets against:
-
+   
    a. Any liability incurred by that Director in connection with any negligence, default, breach of duty or breach of trust in relation to the Cooperative;
 
    b. Any liability incurred by that Director in connection with the activities of the Cooperative in its capacity as a trustee of an occupational pension scheme (as per the Act);
