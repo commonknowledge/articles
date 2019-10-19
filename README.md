@@ -223,7 +223,8 @@ d) Dies, or in the opinion of the Board is unable to carry out their duties.
 
 54. A written resolution shall be deemed to have been passed if, within 28 days of the written resolution’s circulation date:
 
-> a) Written approval has been received from at least 75% of the Members where the resolution is a special resolution;b) Written approval has been received from at least 51% of the Members where the resolution is an ordinary resolution.
+	a) Written approval has been received from at least 75% of the Members where the resolution is a special resolution;
+	b) Written approval has been received from at least 51% of the Members where the resolution is an ordinary resolution.
 
 55. In accordance with the Companies Acts, resolutions to remove a Director or auditor (or their equivalent) of the Cooperative before the end of their period of office shall not be passed by written resolution.
 
