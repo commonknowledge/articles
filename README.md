@@ -58,9 +58,9 @@ Articles of **Common Knowledge Cooperative Ltd**.
 
 8. All Employees on taking up employment with the Co­operative may be admitted to membership of the Cooperative, except that the Cooperative in a general meeting may by a majority vote decide to exclude from membership:
 
-a) Newly appointed Employees during such reasonable probationary period as may be specified in their terms and conditions of employment
+	a) Newly appointed Employees during such reasonable probationary period as may be specified in their terms and conditions of employment
 
-b) Employees working less than a prescribed number of hours per week (or per month); provided that any such criteria for exclusion is applied equally to all Employees.
+	b) Employees working less than a prescribed number of hours per week (or per month); provided that any such criteria for exclusion is applied equally to all Employees.
 
 9. In accordance with the Cooperative Principle of voluntary and open membership, whilst the Cooperative shall undertake to encourage its Employees to become Members, membership must be voluntary and as a result cannot be a condition of employment.
 
@@ -86,10 +86,10 @@ b) Employees working less than a prescribed number of hours per week (or per mon
 
 16. A Member shall cease to be a Member of the Co­operative immediately that they:
 
-a) Cease to be in the employment of the Cooperative; or
-b) Resign in Writing as a Member of the Co-operative to the Secretary; or 
-c) Is expelled from membership in accordance with these Articles; or 
-d) Dies, or in the opinion of the Board is unable to carry out their duties.
+	a) Cease to be in the employment of the Cooperative; or
+	b) Resign in Writing as a Member of the Co-operative to the Secretary; or 
+	c) Is expelled from membership in accordance with these Articles; or 
+	d) Dies, or in the opinion of the Board is unable to carry out their duties.
 
 17. The rights and privileges of a Member shall not be transferable or transmissible.
 
@@ -189,14 +189,14 @@ d) Dies, or in the opinion of the Board is unable to carry out their duties.
 
 46. A poll on a resolution may be demanded:
 
-1. In advance of the general meeting where the matter is to be put to the vote; or
-2. At a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
+	1. In advance of the general meeting where the matter is to be put to the vote; or
+	2. At a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
 
 47. A poll may be demanded by:
 
-1. The chairperson of the meeting;
-2. The Directors;
-3. Two or more Persons having the right to vote on a resolution.
+	1. The chairperson of the meeting;
+	2. The Directors;
+	3. Two or more Persons having the right to vote on a resolution.
 
 48. A demand for a poll may be withdrawn if the poll has not yet been taken and the chairperson consents to the withdrawal.
 
@@ -328,20 +328,20 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 84. A person ceases to be a Director of the Cooperative as soon as:
 
-1. That person ceases to be a Member of the Cooperative;
-2. That person resigns from office in Writing to the Secretary of the Co-operative, and such resignation has taken effect in accordance with its terms;
-3. That person is removed from office by a resolution of the Cooperative in general meeting in accordance with these Articles and the Companies Acts;
-4. That person ceases to be a Director by virtue of any provision of the Companies Acts or is prohibited from being a Director by law;
-5. A bankruptcy order is made against that person;
-6. A registered medical practitioner who is treating that person gives a written opinion to the Cooperative stating that the person has become physically or mentally incapable of acting as a Director and may remain so for more than three months;
-7. By reason of that person’s mental health, a court makes an order which wholly or partly prevents that person from personally exercising any powers or rights which that person would otherwise have.
+	1. That person ceases to be a Member of the Cooperative;
+	2. That person resigns from office in Writing to the Secretary of the Co-operative, and such resignation has taken effect in accordance with its terms;
+	3. That person is removed from office by a resolution of the Cooperative in general meeting in accordance with these Articles and the Companies Acts;
+	4. That person ceases to be a Director by virtue of any provision of the Companies Acts or is prohibited from being a Director by law;
+	5. A bankruptcy order is made against that person;
+	6. A registered medical practitioner who is treating that person gives a written opinion to the Cooperative stating that the person has become physically or mentally incapable of acting as a Director and may remain so for more than three months;
+	7. By reason of that person’s mental health, a court makes an order which wholly or partly prevents that person from personally exercising any powers or rights which that person would otherwise have.
 
 ### **Removal of a Director**
 
 85. A Director may be expelled from office by a resolution of the Co-operative stating that it is in the best interests of the Co-operative that their office is terminated. A resolution to remove a Director from office may only be passed if:
 
-1. The Director has been given at least 21 days’ notice in Writing of the general meeting at which the resolution to remove them from office will be proposed and the reasons why it is to be proposed; and
-2. The Director or, at the option of the Director, the Director’s representative (who need not be a Member of the Co-operative) has been allowed to make representations to the general meeting.
+	1. The Director has been given at least 21 days’ notice in Writing of the general meeting at which the resolution to remove them from office will be proposed and the reasons why it is to be proposed; and
+	2. The Director or, at the option of the Director, the Director’s representative (who need not be a Member of the Co-operative) has been allowed to make representations to the general meeting.
 
 ## **Secretary**
 
@@ -361,8 +361,8 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 90. The profit of the Cooperative shall be applied in the following ways, in such proportions and in such manner as the general meeting shall decide from time to time:
 
-1. To create a general reserve for the continuation and development of the Cooperative;
-2. In accordance with the Cooperative Principle of concern for community, to make payment for social, co-operative and community purposes.
+	1. To create a general reserve for the continuation and development of the Cooperative;
+	2. In accordance with the Cooperative Principle of concern for community, to make payment for social, co-operative and community purposes.
 
 ## **Dissolution**
 
@@ -396,12 +396,12 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 98. The Cooperative shall maintain a register of Directors which shall include the following particulars:
 
-1. Name of the Director and any former names used by them for business purposes;
-2. Service address;
-3. Country of residence;
-4. Nationality;
-5. Business occupation, if any;
-6. Date of birth.
+	1. Name of the Director and any former names used by them for business purposes;
+	2. Service address;
+	3. Country of residence;
+	4. Nationality;
+	5. Business occupation, if any;
+	6. Date of birth.
 
 99. The register of Directors shall be open for inspection to any Member of the Cooperative without charge and to any other Person on payment of such fee as may be prescribed.
 
@@ -411,16 +411,16 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 101. The Cooperative shall ensure that minutes are kept of all:
 
-1. Proceedings at meetings of the Cooperative; and
-2. Proceedings at meetings of the Board of Directors and its sub-committees which include names of the Directors present, decisions made and the reasons for those decisions.
+	1. Proceedings at meetings of the Cooperative; and
+	2. Proceedings at meetings of the Board of Directors and its sub-committees which include names of the Directors present, decisions made and the reasons for those decisions.
 
 ### **Accounts**
 
 102. The Board of Directors shall cause proper accounts to be kept and circulated in accordance with the Companies Acts with respect to:
 
-1. All sums of money received and expended by the Cooperative and the matters in which the receipt and expenditure takes place;
-2. All sales and purchases of goods by the Cooperative;
-3. The assets and liabilities of the Cooperative.
+	1. All sums of money received and expended by the Cooperative and the matters in which the receipt and expenditure takes place;
+	2. All sales and purchases of goods by the Cooperative;
+	3. The assets and liabilities of the Cooperative.
 
 103. Proper accounts shall be deemed to have been kept if they give a true and fair record of the state of the Cooperative's affairs and explain its transactions.
 
@@ -446,9 +446,9 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 110. Subject to the following article, any Director or former Director of the Cooperative may be indemnified out of the Cooperative’s assets against:
 
-1. Any liability incurred by that Director in connection with any negligence, default, breach of duty or breach of trust in relation to the Cooperative;
-2. Any liability incurred by that Director in connection with the activities of the Cooperative in its capacity as a trustee of an occupational pension scheme (as per the Act);
-3. Any other liability incurred by that Director as an officer of the Cooperative.
+	1. Any liability incurred by that Director in connection with any negligence, default, breach of duty or breach of trust in relation to the Cooperative;
+	2. Any liability incurred by that Director in connection with the activities of the Cooperative in its capacity as a trustee of an occupational pension scheme (as per the Act);
+	3. Any other liability incurred by that Director as an officer of the Cooperative.
 
 111. The above article does not authorise any indemnity which would be prohibited or rendered void by any provision of the Companies Acts or any other provision of law.
 
