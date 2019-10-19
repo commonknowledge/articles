@@ -1,3 +1,9 @@
+Articles of association of **Common Knowledge**. 
+
+Presented as is. Any inconsistencies found here are in the original document.
+
+---
+
 # Articles of Association
 
 # Companies Act 2006 Private Company Limited by Guarantee
