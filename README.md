@@ -352,7 +352,7 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
       i. Disclose that information to the Cooperative; and/or
 
-      ii. Use that information for the benefit of the Cooperative;where to do so would amount to a breach of confidence
+      ii. Use that information for the benefit of the Cooperative; where to do so would amount to a breach of confidence
 
 ### **Expenses**
 
