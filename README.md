@@ -391,7 +391,7 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 ## **Regulations**
 
-88. The Cooperative in a general meeting or the Board of Directors may from time to time make, adopt and amend such Regulations in the form of bye-laws, standing orders, secondary rules or otherwise as they think fit for the management, conduct and regulation of the affairs of the Cooperative and the proceedings and powers of the Board of Directors and sub-committees. No regulation shall be made which is inconsistent with these Articles or the Companies Acts. All members of the Cooperative and the Board of Directors shall be bound by such Regulations whether or not they have received a copy of them.
+88. The Cooperative in a general meeting or the Board of Directors may from time to time make, adopt and amend such Regulations in the form of by-laws, standing orders, secondary rules or otherwise as they think fit for the management, conduct and regulation of the affairs of the Cooperative and the proceedings and powers of the Board of Directors and sub-committees. No regulation shall be made which is inconsistent with these Articles or the Companies Acts. All members of the Cooperative and the Board of Directors shall be bound by such Regulations whether or not they have received a copy of them.
 
 ## **Liability of Members**
 
