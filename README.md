@@ -416,7 +416,7 @@ Provided that nothing in this Article shall prevent a Director from counting tow
 
 92. A Member may provide their consent to receive communications from the Cooperative by Electronic Means.
 
-93. Subject to these Articles, anything sent or supplied by or to the Cooperative under the Articles may be sent or supplied in any way in which the Companies Acts provides. Any notice or Document to be sent or supplied to a Director in connection with the taking of decisions by Directors may also be sent or supplied by the means by which that Director has asked to be sent or supplied with such notices or Documents for the time being. A Director may agree with the Cooperative that notices or Documents sent to them in a particular way are to be deemed to have been received within a specified time or their being sent, and for the specified time to be less than 48 hours.
+93. Subject to these Articles, anything sent or supplied by or to the Cooperative under the Articles may be sent or supplied in any way in which the Companies Acts provides. Any notice or Document to be sent or supplied to a Director in connection with the taking of decisions by Directors may also be sent or supplied by the means by which that Director has asked to be sent or supplied with such notices or Documents for the time being. A Director may agree with the Cooperative that notices or Documents sent to them in a particular way are to be deemed to have been received within a specified time of their being sent, and for the specified time to be less than 48 hours.
 
 ### **Seal**
 
