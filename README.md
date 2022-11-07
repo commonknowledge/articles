@@ -349,9 +349,10 @@ Provided that nothing in this Article shall prevent a Director from counting tow
     a. In accordance with (but subject to) the Companies Acts, the Board of Directors may give authorisation in respect of a situation in which a Director has, or could have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the Cooperative; and
 
     b. In authorising a situation the Board of Directors may decide, whether at the time of giving the authorisation or subsequently, that if the conflicted Director has obtained any information through their involvement in the situation otherwise that as a Director and in respect of which they owe a duty of confidentiality to another person, the Director is under no obligation to:
-        i. Disclose that information to the Cooperative; and/or
 
-       ii. Use that information for the benefit of the Cooperative;where to do so would amount to a breach of confidence
+      i. Disclose that information to the Cooperative; and/or
+
+      ii. Use that information for the benefit of the Cooperative; where to do so would amount to a breach of confidence
 
 ### **Expenses**
 
