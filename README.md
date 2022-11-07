@@ -328,7 +328,7 @@ Articles of **Common Knowledge Co-operative Ltd**.
 
 ### **Chairperson**
 
-80.Directors shall appoint one of their number as the chairperson to facilitate meetings of the Board of Directors. If they are absent or unwilling to act at the time any meeting proceeds to business then the Directors present shall choose one of their number to be the chairperson for that meeting. The appointment of a chairperson shall be the first item of business at the meeting.
+80. Directors shall appoint one of their number as the chairperson to facilitate meetings of the Board of Directors. If they are absent or unwilling to act at the time any meeting proceeds to business then the Directors present shall choose one of their number to be the chairperson for that meeting. The appointment of a chairperson shall be the first item of business at the meeting.
 
 ### **Declaration of Interest**
 
